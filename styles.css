@@ -2,6 +2,10 @@ body {
     background-color: rgb(120, 110, 212);
 }
 
+.centered-title {
+    text-align: center;
+}
+
 .image{
     border: 5px solid green;
     border-radius: 10px;
