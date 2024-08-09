@@ -1,5 +1,6 @@
 body {
     background-color: rgb(120, 110, 212);
+    padding: 50px;
 }
 
 .centered-title {
@@ -46,4 +47,22 @@ h1 {
     font-style: italic;
     color: black;
     text-align: center;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    padding-right: 100px;
+    padding-left: 100px;
+    text-align: justify;
 }
