@@ -40,3 +40,10 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: black;
+    text-align: center;
+}
